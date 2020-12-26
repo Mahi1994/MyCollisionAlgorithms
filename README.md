@@ -4,8 +4,8 @@
 
 1. Displace
     ```javascript
-    ```
     displace()
+    ```
     
 2. Collide
     ```collide()
