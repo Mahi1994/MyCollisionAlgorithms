@@ -16,7 +16,7 @@ function setup() {
   object4.shapeColor = "blue";
   movingRect.velocityX = 2;
   //object2.velocityX = -2;
-  //movingRect.debug= true;
+  movingRect.debug= true;
   
 
  
